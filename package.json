@@ -1,0 +1,12 @@
+{
+  "name": "simple_login_authentication",
+  "version": "1.0.0",
+  "description": "Basic Login Authentication System",
+  "main": "server.js",
+  "scripts": {
+    "serve": "node ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
